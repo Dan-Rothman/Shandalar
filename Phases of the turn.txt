@@ -1,0 +1,62 @@
+Phases of the turn, in order:
+
+Untap
+Upkeep
+Draw
+Main Phase 1
+Beginning of Combat
+Declare Attackers
+Declare Blockers
+Damage Step
+Main Phase 2
+End Step
+Cleanup
+
+
+Player Actions cannot be taken: Untap, Cleanup
+Non-instant speed cards can be played: Main Phase 1, Main Phase 2
+
+
+Untap:
+-Turn player untaps all permanents they control.
+-If any effect triggers during this phase, they are pushed to the upkeep step.
+
+Upkeep:
+-Nothing specific happens during this time, but there is a round of priority that players can take actions before the turn player draws their card for turn.
+
+Draw:
+-Turn player draws a card, then there is a round of priority.
+
+Main Phase 1:
+-Turn player may play cards from their hand that are not instant speed, such as sorceries and creatures.
+-Round of priority
+
+Beginning of combat: 
+-Round of priority
+
+Declare attackers:
+-Turn player chooses which creatures are attacking and who they are attacking.
+-Round of priority
+
+Declare blockers:
+-Players being attacked choose which creatures of theirs are blocking which creatures of the turn player.
+-Turn player orders these blockers, deciding which one will recieve damage first from the attacking creatures
+-Round of priority
+
+Damage step:
+If there is a creature that assigns first strike damage
+	-First strike damage is assigned
+	-Creatures that have taken more damage than they have toughness are placed in the graveyard. Any abilities that trigger are placed on the stack and resolve.
+	-Round of priority
+-Regular damage is assigned
+	-Creatures that have taken more damage than they have toughness are placed in the graveyard. Any abilities that trigger are placed on the stack and resolve.
+	-Round of priority
+	
+Main phase 2:
+-Same as M1
+
+End Step:
+-Round of priority
+
+Cleanup Step:
+-Temperary end-of-turn effects end. If the turn player has more cards in hand than their handsize, they discard to handsize. Any abilities that trigger are placed on the stack and resolve.

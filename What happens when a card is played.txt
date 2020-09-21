@@ -1,0 +1,10 @@
+
+If the card is a land, place it on the battlefield
+
+If the card is a nonland, it is placed on the stack.
+
+If it resolves
+	If it is a permanent
+		Move it to the battlefield
+	If it is not a permanent
+		Move it to the graveyard

@@ -1,0 +1,16 @@
+
+Counters are generally placed on cards on the battlefield, however there are cases where cards can have counters in other zones. This will NOT be comprehensive, there are
+many many MANY niche counters that will not be discussed here(ex. feather counters, divinity counters). In general, these counters behave like +1/+1 counters, which will be discussed.
+
+
++1/+1 counters (Also applies to other stat-changing counters like -1/-1 counters)
+
+	-When these counters are on a creature, the power and toughness of that creature is adjusted based on those counters.
+			ex, if a 2/2 has 3 +1/+1 counters on it, consider it a 5/5.
+	-Counters placed on a permanent are removed from that permanent when it moves zones.
+	
+Suspend counters
+
+	-Placed on a card in exile.
+	-Remove a suspend counter at the beginning of your upkeep. Then, if there are no suspend counters on it, you may cast it without paying its mana cost.
+

@@ -1,0 +1,85 @@
+All notes made here can be overwritten if a card has text contradicting them. In general, the specific text on a card overrules the rules text here.
+
+
+
+
+Keywords that cen be applied to certain card types:
+Permanent: Land, Artifact, Creature, Planeswalker, Enchantment
+Nonland Permanent: Artifact, Creature, Planeswalker, Enchantment
+Spell: Instant, Sorcery, Artifact, Creature, Planeswalker, Enchantment
+Can be cast: Instant, Sorcery, Artifact, Creature, Planeswaker, Enchantment
+Can be played: Land, Instant, Sorcery, Artifact, Creature, Planeswalker, Enchantment
+Can attack/block: Creature
+Can be attacked: Planeswalker
+Can tap for mana: Land
+Can be played on another player's turn: Instant
+Only one can be played per turn: Land
+
+
+
+
+
+
+
+
+A magic card can be one or more of many types.
+
+Land:
+
+	Rules:
+		Only one land can be played per turn.
+		Lands do not cost mana to be played.
+		Lands can be tapped for mana at any time the player has priority.
+		Lands being tapped for mana do not start a new round of priority.
+		Tapping a land is a mana ability
+		
+	Gameplay:
+		Nothing can be on the stack in order to play a land.
+		It must be your turn to play a land.
+		When a land is played, it should be placed in the game area closest to the player, furthest from the opponent.
+		Lands should be placed side by side with other lands.
+		If a land becomes a creature, it should be moved up into the creature zone until it is no longer a creature.
+		
+Sorcery:
+
+	Rules:
+		Sorceries cost mana to be played
+		Once a sorcery is cast, there is a new round of priority.
+		After a sorcery is removed from the stack, either by resolving or by being countered, it is moved to the graveyard.
+		
+	Gameplay:
+		Nothing can be on the stack in order to play a sorcery.
+		It must be your turn to play a sorcery.
+		When a sorcery is played, it should be placed on the stack.
+		When a sorcery is removed from the stack, it should go to the graveyard.
+		Other players, including the current player, have a chance to respond to the spell.
+
+Instant:
+	
+	Rules:
+		Instants cost mana to be played
+		Once an instant is cast, there is a new round of priority
+		After an instant is removed from the stack, either by resolving or by being countered, it is moved to the graveyard.
+		
+	Gameplay:
+		Instants can be played regardless of whether the stack is clear.
+		It can be anyone's turn to play an instant.
+		When an instant is played, it should be placed on the stack.
+		When an instant is removed from the stack, it should go to the graveyard
+		Other players, including the current player, have a chance to respond to the spell.
+		
+		
+Artifact:
+
+	Rules:
+		Artifacts cost mana to be played.
+		Once an artifact is cast, there is a new round of priority.
+		If an artifact resolves, it is put into play.
+		If the artifact is countered, it is put in the graveyard.
+		When an artifact is removed from the play area, it is put in the graveyard.
+		Artifacts cannot be tapped "just because". They must be tapped by either themselves or another card.
+		
+	Gameplay:
+		Nothing can be on the stack in order to play a sorcery.
+		It must be your turn to play an artifact.
+		When an artifact resolved, it should be put in the noncreature/nonland permanents zone, which should be above the lands and below the creatures

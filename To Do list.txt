@@ -1,0 +1,12 @@
+Explain the stack
+Explain priority
+Explain mana
+	Converted mana cost
+	Colors of mana
+	Mana pool
+	Paying mana
+
+
+Cube list for cards?
+
+

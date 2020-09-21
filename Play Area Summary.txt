@@ -1,0 +1,78 @@
+List of zones:
+Hand
+Deck/Library
+Graveyard
+Exile zone
+Stack
+Battlefield
+Sideboard
+
+Keywords that apply
+
+Can be seen by you but not your opponent: Hand, Sideboard
+Can be seen by both players: Battlefield, Graveyard, Exile zone, Stack
+FaceDown: Library
+'In play': Hand, Library, Graveyard, Exile zone, Battlefield, ?Stack?
+
+Actions:
+"Discard" Move from hand to graveyard
+"Exile" Move from any zone to the exile zone
+"Draw" Move the top card of the library to your hand.
+"Mill" Move the top card of the library to the graveyard
+"Destroy" Move the card from play into the graveyard
+"Sacrifice" Move the card from play into the graveyard
+"Bury" Move the card from play into the graveyard
+"Scry" Move the card from the top of your library to either the top or the bottom of your library
+"Surveil" Move the card from the top of your library to either the top of your library or your graveyard.
+
+
+
+Hand:
+
+	Cards end up here when:
+		You draw cards from your deck
+		A card is played that says to return a card or cards to your hand
+		
+	Cards leave here when:
+		You play/cast them.
+			->they go to the battlefield or the stack depending on what they are.
+		You discard them.
+			->they go to the graveyard
+		You exile them
+			->they go to the exile zone
+			
+		What can you do with cards in your hand:
+			You can play them
+			
+			
+Deck/Library:
+
+	Cards end up here when:
+		A card is played that says to place a card in your library.
+		When the game is started, all cards in play that are not in your sideboard are in your library
+		
+	Cards leave here when:
+		You draw them
+		->they go to your hand
+		You mill them
+		->they go to your graveyard
+		
+	What can you do with cards in your deck:
+		Draw a card at the beginning of your draw step
+		
+Graveyard:
+
+	Cards end up here when:
+		A card is discarded from your hand
+		A card on your battlefield dies, is destroyed or sacrificed
+		
+	Cards leave here when:
+		A card tells you to move them to another zone
+		
+	What can you do with cards in your deck.
+		Nothing unless a card tells you to do something with them.
+		
+Exile:
+
+	Cards end up here when 
+		
