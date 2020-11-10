@@ -1,0 +1,20 @@
+Popup for graveyard,exile, and stack zones (zone similar to hand zone)
+	Graveyard/Exile, only be able to see the top card of each zone. But when you click on it, popup of entire zone.
+	Like MTG Arena
+	Stack will pop up when relevant
+	Popup should have title of zone somewhere to add clarity
+	
+	
+Cards are fuzzy, figure out how to make them readable
+	Its because they're too small. If I scale them up by 5x, they look nice. 
+	How do we scale everything up? Who knows
+	
+
+Conditional movement of cards
+	If card is a land, and its in your hand and you click on it, play it.
+	If card is a land on the battlefield, tap it
+	
+	
+Program a 'phases' button
+Make it so when you go to draw phase, draw a card.
+Upload changes so I don't mess with things
